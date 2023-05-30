@@ -65,7 +65,6 @@ repositories {
 // Dependencies
 dependencies {
     // libwebrtc
-    implementation files('libs/libwebrtc.jar')
 }
 
 // Note: Because the android components are created only during the
